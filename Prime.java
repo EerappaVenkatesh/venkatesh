@@ -19,7 +19,7 @@ class User
 			
 		}
 		if(count==0&&start!=1)
-			System.out.println(start);
+			System.out.println(start+" prime");
 	}
 	
 }
