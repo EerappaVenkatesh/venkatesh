@@ -9,6 +9,7 @@ class User
 		rev=rev*10+rem;
 	}
 	System.out.println(rev);
+	System.out.println("rev");
   }
 	/*public void Model2(103,0,0)
 	{
